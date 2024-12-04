@@ -1,7 +1,7 @@
 # socket-programming
 
 ## 簡介
-這是一個兩階段的網路程式設計作業，包含 Client 和 Multi-threaded Server 的開發，主要功能包括使用者註冊、登入、查詢上線名單及金額轉帳。程式開發於 macOS 環境下完成，使用 C++ 編程語言。
+這是一個兩階段的網路程式設計作業，包含 Client 和 Multi-threaded Server 的開發，主要功能包括使用者註冊、登入、查詢上線名單及金額轉帳。程式開發於 macOS 環境下完成，使用 C++ 程式語言。
 
 ---
 
